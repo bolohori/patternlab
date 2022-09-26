@@ -68,7 +68,7 @@
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.0",
-    "karma": "^2.0.2",
+    "karma": "^6.4.1",
     "karma-babel-preprocessor": "^7.0.0",
     "karma-chai": "^0.1.0",
     "karma-chai-jquery": "^1.0.0",
